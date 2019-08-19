@@ -1,3 +1,5 @@
 input/
 *.zip
 *.bin
+*.pt
+__pycache__/
