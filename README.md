@@ -1,7 +1,7 @@
 # aptos2019-blindness-detection
 My personal solution for the aptos2019-blindness-detection Kaggle competition where I achieved Rank **72th (top 2.4%)**
 
-For more explanation on my approach and some other findings please go to https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107975#latest-621103 where I posted a post-competition writeup. 
+For more explanation on my approach and some other findings please go to https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107975#latest-621103 
 
 ## How to use my notebooks:
 I had to break the whole appaorch into two parts: model training and inference, due to the fact that this is a synchronous Kernels-only competition and I wanted to utilise my local machine to train the models.
